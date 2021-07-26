@@ -1,4 +1,4 @@
-###👋 Hello
+### 👋 Hello
 
 I'm ricardo, I've worked in projects such as Kiba.Shop and [ShareX.Cloud](https://sharex.cloud).
 You can check out my website at https://ricardo.wtf/
