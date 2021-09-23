@@ -1,3 +1,4 @@
-👋 Hello, I'm ricardo. Currently learning JavaScript and other languages.
-Founder of https://imagehosts.club/
-Email - ricardo@floppa.email
+👋 Hello, I'm ricardo. Currently learning React.js, TypeScript, and GoLang.
+
+more - https://ricardo.wtf
+email - ricardo@is-sus.com
